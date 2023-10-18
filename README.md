@@ -2,7 +2,11 @@
 
 # Welcome 👋 , I'm Sean Dhanasar.
 
-I'm a Process Engineer transitioning into Data Analytics
+I'm a Process Engineer transitioning into Data Analytics, leveraging data-driven process optimisation experience from the oil refining industry. 
+Currently pivoting into Data Analytics to fortify business decisions with comprehensive insights. 
+Proficient in applying analytical tools to streamline operations and enhance performance.
+Passionate about bridging the gap between engineering expertise and data-driven strategies.
+Let's collaborate and uncover actionable insights together!
 
 
 <!--
