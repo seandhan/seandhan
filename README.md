@@ -54,6 +54,8 @@ I bring a diverse skill set to the table, combining engineering expertise with a
 
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=sean&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
