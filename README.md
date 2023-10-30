@@ -20,16 +20,14 @@ I'm excited to join a team where I can continuously grow as a data analyst. Feel
 
 
 
-- The University of New South Wales, Sydney, Australia
-  - Master of Analytics
-  - Areas of Focus: Business Analysis, Analytics Consulting, Data Ethics, Decision Analytics, Big Data Analytics, and more
+- **The University of New South Wales, Sydney, Australia**
+  - **Master of Analytics**
 
-- The University of Texas at Austin, Austin, Texas
-  - Postgraduate Programme in Data Science and Business Analytics
-  - Specialisations: Python, Data Analysis, Business Statistics, Machine Learning
+- **The University of Texas at Austin, Austin, Texas**
+  - **Postgraduate Programme in Data Science and Business Analytics**
 
-- The University of the West Indies, St. Augustine, Trinidad
-  - Bachelor of Science in Chemical and Process Engineering
+- **The University of the West Indies, St. Augustine, Trinidad**
+  - **Bachelor of Science in Chemical and Process Engineering**
     
 ## Skills
 
