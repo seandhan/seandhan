@@ -37,7 +37,7 @@ Delve into my Python, R, and SQL projects and witness the art of translating raw
 
 #### Click here 👇:
 
-[![My-Portfilio-.svg](https://github.com/seandhan/test1/blob/main/My-Portfolio-.svg)](https://github.com/seandhan/My-Portfolio)
+[![My-Portfilio-.svg](https://github.com/seandhan/image_database/blob/main/My-Portfolio-.svg)](https://github.com/seandhan/My-Portfolio)
 
 
 
