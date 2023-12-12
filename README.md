@@ -12,7 +12,8 @@
 
 <h2 align="center"> My Story </h2>
 
-<p align="center">I am a Process Engineer boldly transitioning into the realm of Data Analytics. <br><br> After harnessing the power of data analytics to optimize process plant operations, I am now forging a path into the data-driven business world, seeking to unify my expertise in data analysis with a business-focused mindset. <br><br> I am passionate about weaving together my engineering acumen and advanced data analytics to revolutionize the way we solve complex challenges.<br><br> My mission is to bring an impactful fusion of technical mindset and data-driven innovation to the world of business.</p>
+<p align="center">
+With over five years optimizing oil refinery operations as a Process Engineer, I excel at transforming raw data into actionable insights for enhanced efficiency. Recently earning a Master of Analytics degree, I bring expertise in SQL, Python, statistical modeling, machine learning, and advanced data visualization. <br><br> My versatile toolkit, strategic mindset, and hands-on experience uniquely position me to address organizational challenges through data-driven solutions. Committed to continuous learning, I stay abreast of industry trends to implement cutting-edge solutions. <br><br> Goal: Excel as a Data Analyst, specializing in translating complex data findings into practical solutions for specific business priorities. <br><br> Let's connect and explore how my experience and strategic thinking can drive transformative change in your organization.</p>
 
 ---
 
