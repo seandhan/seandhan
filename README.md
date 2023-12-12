@@ -1,3 +1,5 @@
+![name-banner](https://github.com/seandhan/seandhan/blob/main/banner.png)
+
 <h1 align="center"><strong>Hi, I'm <a href="https://github.com/seandhan">Sean Dhanasar</a></strong>
     <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="35px" width="35px"></h1>
 
