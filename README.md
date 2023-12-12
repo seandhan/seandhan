@@ -68,4 +68,4 @@ With over five years optimizing oil refinery operations as a Process Engineer, I
 <p align="left">
 <a href="https://linkedin.com/in/sdhanasar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sdhanasar" /></a>
 
-<a href="sean_dhanasar@msn.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto:sean_dhanasar@msn.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
